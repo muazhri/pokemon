@@ -1,4 +1,3 @@
-import { Children } from "react"
 
 export const Cards = ({children}) => {
     return (
@@ -30,8 +29,6 @@ export const Image = ({url}) => {
         <div>
             <img src={url} className="my-4 mx-auto h-32" />
         </div>
-        
-
     )
 } 
 

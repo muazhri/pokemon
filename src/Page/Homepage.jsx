@@ -2,9 +2,7 @@ import { Chosen } from "../Component/Chosen";
 import { PokemonList } from "../Component/PokemonList";
 import { Pokemon } from "../Data/Pokemon";
 import {
-    Background,
   Cards,
-  Button,
   Title,
   Image,
   ChosenChildren,

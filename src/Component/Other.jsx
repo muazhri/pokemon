@@ -27,7 +27,7 @@ export const ChosenChildren = ({children}) => {
 export const Image = ({url}) => {
     return (
         <div>
-            <img src={url} className="my-4 mx-auto h-32" />
+            <img src={url} className="my-4 mx-auto h-32" alt="/"/>
         </div>
     )
 } 
